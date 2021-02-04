@@ -1,0 +1,29 @@
+.fixedNavBar { 
+  background-color: blue;  
+  height: 100px; 
+  width: 100%; 
+  position: fixed;  
+  top: 0;  
+  text-align:center;}
+
+.section1 { 
+  background-color: green; 
+  height: 300px; 
+  text-align: center;}
+
+.section2 {  
+  background-color: pink;  
+  height: 300px;  
+  text-align: center;}
+
+.section3 {  
+  background-color: purple;  
+  height: 300px;  
+  text-align: center; 
+  margin: 0;}
+
+.section4 {  
+  background-color: yellow; 
+  height: 300px;  
+  text-align: center;  
+  margin: 0;}
